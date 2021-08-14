@@ -4,19 +4,17 @@ Official Website for [Astro Discord Bot.](https://github.com/kavinjindal/Astro-1
 
 Visit the Official Website : [Astro Bot](https://django-template-2.kavinjindal.repl.co/)
 
-# Important
-
-**The Website is not having good performance on Mobile Browsers, it is suggested to visit the website on Desktop Browsers.It will soon be made unaccessible to mobile browsers**
-
 # Website Content
 
-[Home](https://django-template-2.kavinjindal.repl.co/)
+[Home](https://astro.klevr.repl.co/)
 
-[Commands](https://django-template-2.kavinjindal.repl.co/commands)
+[Commands](https://astro.klevr.repl.co/commands)
 
-[Developer](https://django-template-2.kavinjindal.repl.co/developer)
+[Developer](https://astro.klevr.repl.co/developer)
 
-[Privacy Policy](https://django-template-2.kavinjindal.repl.co/privacy)
+[Privacy Policy](https://astro.klevr.repl.co/privacy)
+
+[Update Log](https://astro.klevr.repl.co/updates)
 
 # Version 
 

@@ -2,7 +2,7 @@
 
 Official Website for [Astro Discord Bot.](https://github.com/kavinjindal/Astro-1.3)
 
-Visit the Official Website : [Astro Bot](https://django-template-2.kavinjindal.repl.co/)
+Visit the Official Website : [Astro Bot](https://astro.klevr.repl.co/)
 
 # Website Content
 
